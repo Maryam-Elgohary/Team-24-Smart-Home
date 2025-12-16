@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "330351253512",
+    "project_id": "ntiproject-87b14",
+    "storage_bucket": "ntiproject-87b14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330351253512:android:2e269ec82c5816b1db19bd",
+        "android_client_info": {
+          "package_name": "com.example.forth_session"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330351253512-r59takd0hjtge7vl497knplaug9f8rvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcepK7niG2QOepXaNENeV2S3Q06TYmBC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330351253512-r59takd0hjtge7vl497knplaug9f8rvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330351253512-ad4ift3o0rtb2ggur9o6tot0djk5u9fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.forthSession"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330351253512:android:13d5fa9456279b24db19bd",
+        "android_client_info": {
+          "package_name": "com.example.updated_smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330351253512-r59takd0hjtge7vl497knplaug9f8rvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcepK7niG2QOepXaNENeV2S3Q06TYmBC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330351253512-r59takd0hjtge7vl497knplaug9f8rvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330351253512-ad4ift3o0rtb2ggur9o6tot0djk5u9fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.forthSession"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
