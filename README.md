@@ -1,16 +1,23 @@
-# updated_smart_home
+# Updated Smart Home 🏠
 
-A new Flutter project.
+**Updated Smart Home** project for managing smart devices and controlling your home in a modern and convenient way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📄 Proposal
+Check out the full project proposal here:  
+[View Proposal](https://drive.google.com/file/d/1Ez80C40oylYPs_gHfA5ei0ZzfrHZ2504/view?usp=drive_link)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📊 Presentation
+View the project presentation here:  
+[View Presentation](https://www.canva.com/design/DAG7swK8faI/jIQN07eHqkRslaChDh-b8A/edit?utm_content=DAG7swK8faI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo
+Watch the project demo here:  
+[View Demo](https://drive.google.com/file/d/17vRngwkuUwrpnTXrN03sCiXN0QZ312XI/view?usp=drive_link)
+
+---
